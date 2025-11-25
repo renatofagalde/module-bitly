@@ -1,0 +1,27 @@
+mode: set
+bitly/bitly.go:15.13,16.37 1 1
+bitly/bitly.go:16.37,18.3 1 1
+bitly/bitly.go:21.25,22.12 1 1
+bitly/bitly.go:22.12,24.3 1 1
+bitly/bitly.go:26.2,29.16 3 1
+bitly/bitly.go:29.16,33.3 3 1
+bitly/bitly.go:35.2,35.24 1 1
+bitly/bitly.go:38.34,41.30 2 1
+bitly/bitly.go:41.30,44.10 3 1
+bitly/bitly.go:44.10,46.4 1 1
+bitly/bitly.go:49.3,49.31 1 1
+bitly/bitly.go:49.31,51.4 1 0
+bitly/bitly.go:53.3,53.35 1 1
+bitly/bitly.go:56.2,56.20 1 1
+bitly/bitly.go:59.38,60.20 1 1
+bitly/bitly.go:60.20,62.3 1 1
+bitly/bitly.go:64.2,65.19 2 1
+bitly/bitly.go:65.19,67.3 1 1
+bitly/bitly.go:69.2,72.22 4 1
+bitly/bitly.go:72.22,75.3 2 1
+bitly/bitly.go:77.2,77.24 1 1
+bitly/bitly.go:80.44,83.30 2 1
+bitly/bitly.go:83.30,86.10 3 1
+bitly/bitly.go:86.10,88.4 1 1
+bitly/bitly.go:89.3,90.35 2 1
+bitly/bitly.go:93.2,93.23 1 1
